@@ -2,5 +2,11 @@
 
 
 ### Steps
-1. ```pip -r requirements.txt
-2. ```python main.py
+1. Install the required packages
+```bash
+pip -r requirements.txt
+```
+2. Run the program
+```bash
+python main.py
+```
